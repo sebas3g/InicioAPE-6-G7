@@ -3,3 +3,7 @@
 <img width="684" height="572" alt="image" src="https://github.com/user-attachments/assets/3db271a3-de3f-488c-8a3b-82055297d941" />
 
 <img width="686" height="403" alt="image" src="https://github.com/user-attachments/assets/bc20c83a-d644-47dc-b28e-1531994921ad" />
+
+#### SALIDA POR CONSOLA
+
+<img width="435" height="237" alt="image" src="https://github.com/user-attachments/assets/27f51a17-fd5c-49c8-896d-977a8b6e15b5" />
